@@ -1,34 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Messenger Clone App (Next.js)
 
-## Getting Started
+## ABOUT APP
 
-First, run the development server:
+A visually appealing Messenger clone app built using Next.js, Prism, MongoDB, Google Auth, Github Auth, Pusher, and Cloudinary. The app features a responsive design and real-time messaging capabilities.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+Please Visit: [Messenger Clone](https://realtime-messenger-clone-seven.vercel.app/)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## TECHNOLOGY USED
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- [Next.js](https://nextjs.org/docs): A React framework for building server-side rendered and static web applications.
+- [Prisma](https://www.prisma.io/): Prisma is an open source next-generation ORM.
+- [MongoDB](https://www.mongodb.com/docs/): A NoSQL database for storing and managing data.
+- Google Cloud: Authentication mechanism using Google accounts.
+- Github Auth: Authentication mechanism using GitHub accounts.
+- [Pusher](https://pusher.com/docs/): A real-time messaging platform for enabling instant communication.
+- [Cloudinary](https://cloudinary.com/developers): A cloud-based image and video management service.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## FEATURES
 
-## Learn More
+- Real-time messaging: Chat with friends in real-time, with instant message updates.
+- Responsive design: The app is optimized for different screen sizes and devices.
+- Send images to of every possible size
+- Very fast because of Pusher API
 
-To learn more about Next.js, take a look at the following resources:
+## SCREENSHOT
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![screenshot.JPG](./screenshot.JPG)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## DEVELOPED BY
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Divyajyoti
